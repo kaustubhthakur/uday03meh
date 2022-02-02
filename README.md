@@ -1,6 +1,6 @@
 ### Hi there👋
 - 🌱 I’m currently learning DSA in C++.
-- 😄 Pronouns: he/him
+- 🔭 I’m currently working on problem solving in C++.
 - 📫 How to reach me: udaymehtani@gmail.com
 
 
