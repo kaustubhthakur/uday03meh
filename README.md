@@ -1,6 +1,6 @@
 ### Hi there👋
-- 🌱 I’m currently learning DSA in C++.
-- 🔭 I’m currently working on problem solving in C++.
+- 🌱 I’m currently learning DSA in C++
+- 🔭 I’m currently working on problem solving in C++
 - 📫 How to reach me: udaymehtani@gmail.com
 - 😄 All of my contributions are to my personal repository only.
 
