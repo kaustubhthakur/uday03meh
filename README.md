@@ -7,7 +7,6 @@
 
 
 ![uday03meh](https://komarev.com/ghpvc/?username=your-github-username&style=flat&color=brightgreen&label=Profile+Views)
-![uday03meh](https://hit.yhype.me/github/profile?user_id=59679281)
 
 <!--
 **uday-mehtani/uday-mehtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![uday03meh](https://hit.yhype.me/github/profile?user_id=59679281)
