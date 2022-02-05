@@ -7,9 +7,6 @@
 
 
 ![profile views](https://komarev.com/ghpvc/?username=uday03meh&style=flat&color=brightgreen&label=Profile+Views)
-![snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-
 
 <!--
 **uday-mehtani/uday-mehtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
