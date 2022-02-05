@@ -7,7 +7,9 @@
 
 
 ![uday03meh](https://komarev.com/ghpvc/?username=your-github-username)
-![uday03meh](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![uday03meh](https://komarev.com/ghpvc/?username=your-github-username&color=brightgreen)
+![uday03meh](https://komarev.com/ghpvc/?username=your-github-username&style=plastic)
+![uday03meh](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 <!--
 **uday-mehtani/uday-mehtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
