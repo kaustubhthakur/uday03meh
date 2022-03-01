@@ -1,6 +1,5 @@
 ### Hi there👋
-- 🌱 I’m currently learning DSA in C++
-- 🔭 I’m currently working on problem solving in C++
+- 🔭 I’m currently learning Python along with DSA in C++ and practicing DSA questions.
 - 📫 How to reach me: udaymehtani@gmail.com
 - 😄 All of my contributions are to my personal repositories only.
 
