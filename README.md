@@ -1,5 +1,6 @@
 ### Hi there👋
-- 🔭 I’m currently learning Python along with DSA in C++ and practicing DSA questions.
+- 🔭 I have completed fundamental C++ and learning about Data Structures and Algorithms(DSA) in C++ currently.
+- 🌱 I am also trying my hand at Python.
 - 📫 How to reach me: udaymehtani@gmail.com
 - 😄 All of my contributions are to my personal repositories only.
 
