@@ -1,6 +1,7 @@
 ### Hi there👋
-- 🔭 I have completed fundamental C++ and learning about Data Structures and Algorithms(DSA) in C++ currently.
-- 🌱 I am also trying my hand at Python and Web Development.
+- 🔭 I'm learning about Data Structures and Algorithms(DSA) in C++ currently.
+- 🌱 I'm also interested in Web Development.
+- 💞️ Contributing to open source is something I'm loving these days.
 - 📫 How to reach me: udaymehtani@gmail.com
 
 ![profile views](https://komarev.com/ghpvc/?username=uday03meh&style=flat&color=brightgreen&label=Profile+Views)
