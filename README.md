@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="29px" height="29px">
 - 🔭 I'm learning about Data Structures and Algorithms(DSA) in C++ currently.
 - 🌱 I'm also interested in Web Development.
 - 💞️ Contributing to open source is something I'm loving these days.
