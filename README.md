@@ -7,11 +7,8 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=uday03meh&style=flat&color=brightgreen&label=Profile+Views)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uday03meh&theme=cobalt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=uday03meh&count_private=true&theme=radical&show_icons=true&?hide=)](https://github.com/anuraghazra/github-readme-stats)
-
-
+   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
