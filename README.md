@@ -1,6 +1,6 @@
 ### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"  width="29px" height="29px">
 - 🔭 I'm learning about Data Structures and Algorithms(DSA) in C++
-- 🥅 I'm also interested in Web Development.
+- 🥅 I'm exploring web3 and Blockchain Development.
 - 💞️ Contributing to open source is something I'm loving these days.
 - ✨ Checkout my starred repos for amazing resources.
 - 📫 How to reach me: udaymehtani@gmail.com
