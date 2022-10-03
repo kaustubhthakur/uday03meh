@@ -18,8 +18,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a>
   <a href="https://docs.soliditylang.org/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.16/_static/logo.svg" alt="python" width="40" height="40"/> </a>
-
-
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -28,6 +26,7 @@
 <a href="https://www.linkedin.com/in/udaymehtani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday's linkedin" height="30" width="40" /></a>
 </p>
 
+![snake gif](https://github.com/uday03meh/Actions/blob/output/github-contribution-grid-snake.svg)
 <!--
 https://readme-typing-svg.herokuapp.com/demo/ - for typing gif thing
 **uday-mehtani/uday-mehtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
