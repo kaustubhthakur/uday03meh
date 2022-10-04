@@ -28,7 +28,8 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![snake gif](https://github.com/OmarZen/Actions/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/uday03meh/uday03meh/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 https://readme-typing-svg.herokuapp.com/demo/ - for typing gif thing
 **uday-mehtani/uday-mehtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
