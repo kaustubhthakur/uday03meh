@@ -26,7 +26,9 @@
 <a href="https://www.linkedin.com/in/udaymehtani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday's linkedin" height="30" width="40" /></a>
 </p>
 
-![snake gif](https://github.com/uday03meh/Live-in-Action/blob/main/Actions/github-comit-snake-eater.svg)
+## Watch my contributions get eaten by a snake 🐍
+
+![snake gif](https://github.com/OmarZen/Actions/blob/output/github-contribution-grid-snake.svg)
 <!--
 https://readme-typing-svg.herokuapp.com/demo/ - for typing gif thing
 **uday-mehtani/uday-mehtani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,3 +42,4 @@ https://readme-typing-svg.herokuapp.com/demo/ - for typing gif thing
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
