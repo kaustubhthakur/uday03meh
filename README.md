@@ -1,10 +1,11 @@
 # Hi there <img src="Hi.gif"  width="29px" height="29px">
+
 - 🔭 I'm learning about Data Structures and Algorithms(DSA) in C++
 - 🥅 I'm exploring web3 and Blockchain Development.
 - 👯 I’m looking to participating in hackathons.
 - 💞️ Contributing to open source is something I'm loving these days.
 - ✨ Checkout my starred repos for amazing resources.
-- 📫 How to reach me: [udaymehtani@gmail.com](mailto:udaymehtani@gmail.com)@
+- 📫 How to reach me: [udaymehtani@gmail.com](mailto:udaymehtani@gmail.com)
 
 ![profile views](https://komarev.com/ghpvc/?username=uday03meh&style=flat&color=brightgreen&label=Profile+Views)
 
