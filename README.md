@@ -28,7 +28,7 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![Snake animation](https://github.com/{{uday03meh}}/{{uday03meh}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/uday03meh/uday03meh/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 https://readme-typing-svg.herokuapp.com/demo/ - for typing gif thing
