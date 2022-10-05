@@ -46,5 +46,8 @@ https://twitter.com/PriteshKiri/status/1577154041032937472?t=kOL7GSaz5-EIWzWcmWn
 https://rahuldkjain.github.io/gh-profile-readme-generator/?s=08
 
 https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
+
+Idea for icons:
+use both type of icons with square ones above label icons and give same width to both, use them as images and not as links
 -->
 
