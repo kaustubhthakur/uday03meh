@@ -24,14 +24,7 @@
   <a href="https://docs.soliditylang.org/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.16/_static/logo.svg" alt="solidity" width="40" height="40"/> </a>
 </p>
 
-## Connect with me:
-<p align="left">
-<a href="https://twitter.com/uday03meh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uday's twt" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/udaymehtani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday's linkedin" height="40" width="40" /></a>
-<a href="https://github.com/uday03meh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="uday's github" height="40" width="40" /></a>
-</p>
-
-### :zap: Recent Activity
+# :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#188](https://github.com/atsign-foundation/docs.atsign.com/issues/188) in [atsign-foundation/docs.atsign.com](https://github.com/atsign-foundation/docs.atsign.com)
@@ -44,6 +37,13 @@
 ## Watch my contributions get eaten by a snake 🐍
 
 ![Snake animation](https://github.com/uday03meh/uday03meh/blob/output/github-contribution-grid-snake.svg)
+
+## Connect with me:
+<p align="left">
+<a href="https://twitter.com/uday03meh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uday's twt" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/udaymehtani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday's linkedin" height="40" width="40" /></a>
+<a href="https://github.com/uday03meh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="uday's github" height="40" width="40" /></a>
+</p>
 
 <!--
 
