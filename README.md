@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/uday03meh/uday03meh/issues/1) in [uday03meh/uday03meh](https://github.com/uday03meh/uday03meh)
-2. 🎉 Merged PR [#1](https://github.com/uday03meh/uday03meh/pull/1) in [uday03meh/uday03meh](https://github.com/uday03meh/uday03meh)
-3. 💪 Opened PR [#2](https://github.com/chehe040/chehe040/pull/2) in [chehe040/chehe040](https://github.com/chehe040/chehe040)
-4. 💪 Opened PR [#32](https://github.com/SoftTech-Global/Perfect-Resume/pull/32) in [SoftTech-Global/Perfect-Resume](https://github.com/SoftTech-Global/Perfect-Resume)
-5. 🗣 Commented on [#31](https://github.com/SoftTech-Global/Perfect-Resume/issues/31) in [SoftTech-Global/Perfect-Resume](https://github.com/SoftTech-Global/Perfect-Resume)
+1. 🗣 Commented on [#32](https://github.com/SoftTech-Global/Perfect-Resume/issues/32) in [SoftTech-Global/Perfect-Resume](https://github.com/SoftTech-Global/Perfect-Resume)
+2. 🗣 Commented on [#1](https://github.com/uday03meh/business-card/issues/1) in [uday03meh/business-card](https://github.com/uday03meh/business-card)
+3. 🎉 Merged PR [#1](https://github.com/uday03meh/business-card/pull/1) in [uday03meh/business-card](https://github.com/uday03meh/business-card)
+4. 🗣 Commented on [#1](https://github.com/uday03meh/uday03meh/issues/1) in [uday03meh/uday03meh](https://github.com/uday03meh/uday03meh)
+5. 🎉 Merged PR [#1](https://github.com/uday03meh/uday03meh/pull/1) in [uday03meh/uday03meh](https://github.com/uday03meh/uday03meh)
 <!--END_SECTION:activity-->
 
 ## Watch my contributions get eaten by a snake 🐍
