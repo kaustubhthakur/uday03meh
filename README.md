@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#87](https://github.com/Rick-mad-lab/Todolist/pull/87) in [Rick-mad-lab/Todolist](https://github.com/Rick-mad-lab/Todolist)
-2. ❗️ Opened issue [#86](https://github.com/Rick-mad-lab/Todolist/issues/86) in [Rick-mad-lab/Todolist](https://github.com/Rick-mad-lab/Todolist)
-3. 🗣 Commented on [#45](https://github.com/HridoyHazard/BetterColor/issues/45) in [HridoyHazard/BetterColor](https://github.com/HridoyHazard/BetterColor)
-4. ❗️ Opened issue [#160](https://github.com/avinash201199/To-Do-List/issues/160) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
-5. ❗️ Opened issue [#31](https://github.com/SoftTech-Global/Perfect-Resume/issues/31) in [SoftTech-Global/Perfect-Resume](https://github.com/SoftTech-Global/Perfect-Resume)
+1. ❗️ Opened issue [#232](https://github.com/nhcommunity/community/issues/232) in [nhcommunity/community](https://github.com/nhcommunity/community)
+2. 💪 Opened PR [#87](https://github.com/Rick-mad-lab/Todolist/pull/87) in [Rick-mad-lab/Todolist](https://github.com/Rick-mad-lab/Todolist)
+3. ❗️ Opened issue [#86](https://github.com/Rick-mad-lab/Todolist/issues/86) in [Rick-mad-lab/Todolist](https://github.com/Rick-mad-lab/Todolist)
+4. 🗣 Commented on [#45](https://github.com/HridoyHazard/BetterColor/issues/45) in [HridoyHazard/BetterColor](https://github.com/HridoyHazard/BetterColor)
+5. ❗️ Opened issue [#160](https://github.com/avinash201199/To-Do-List/issues/160) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
 <!--END_SECTION:activity-->
 
 ## Watch my contributions get eaten by a snake 🐍
