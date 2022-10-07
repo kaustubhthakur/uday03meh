@@ -1,10 +1,10 @@
 # Hi there <img src="Hi.gif"  width="29px" height="29px">
 
-- 🔭 I'm learning about Data Structures and Algorithms(DSA) in C++
-- 🥅 I'm exploring web3 and Blockchain Development.
-- 👯 I’m looking to participating in hackathons.
-- 💞️ Contributing to open source is something I'm loving these days.
-- ✨ Checkout my starred repos for amazing resources.
+- 🔭 I'm learning about Data Structures and Algorithms(DSA)
+- 🥅 I'm exploring web3 and Blockchain Development
+- 👯 I’m looking to participating in hackathons
+- 💞️ Contributing to open source is something I'm loving these days
+- ✨ Checkout my starred repos for amazing resources
 - 📫 How to reach me: [udaymehtani@gmail.com](mailto:udaymehtani@gmail.com)
 
 ![profile views](https://komarev.com/ghpvc/?username=uday03meh&style=flat&color=brightgreen&label=Profile+Views)
@@ -24,7 +24,7 @@
   <a href="https://docs.soliditylang.org/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.16/_static/logo.svg" alt="solidity" width="40" height="40"/> </a>
 </p>
 
-# :zap: Recent Activity
+## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#86](https://github.com/Rick-mad-lab/Todolist/issues/86) in [Rick-mad-lab/Todolist](https://github.com/Rick-mad-lab/Todolist)
