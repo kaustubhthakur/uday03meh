@@ -27,11 +27,11 @@
 # :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#56](https://github.com/Design-and-Code/css-buttons/issues/56) in [Design-and-Code/css-buttons](https://github.com/Design-and-Code/css-buttons)
-2. 🗣 Commented on [#188](https://github.com/atsign-foundation/docs.atsign.com/issues/188) in [atsign-foundation/docs.atsign.com](https://github.com/atsign-foundation/docs.atsign.com)
-3. ❗️ Opened issue [#188](https://github.com/atsign-foundation/docs.atsign.com/issues/188) in [atsign-foundation/docs.atsign.com](https://github.com/atsign-foundation/docs.atsign.com)
-4. 🗣 Commented on [#20](https://github.com/ShrutiMishra-2002/hacktoberfest22_transopedia/issues/20) in [ShrutiMishra-2002/hacktoberfest22_transopedia](https://github.com/ShrutiMishra-2002/hacktoberfest22_transopedia)
-5. 🗣 Commented on [#20](https://github.com/ShrutiMishra-2002/hacktoberfest22_transopedia/issues/20) in [ShrutiMishra-2002/hacktoberfest22_transopedia](https://github.com/ShrutiMishra-2002/hacktoberfest22_transopedia)
+1. ❗️ Opened issue [#86](https://github.com/Rick-mad-lab/Todolist/issues/86) in [Rick-mad-lab/Todolist](https://github.com/Rick-mad-lab/Todolist)
+2. 🗣 Commented on [#45](https://github.com/HridoyHazard/BetterColor/issues/45) in [HridoyHazard/BetterColor](https://github.com/HridoyHazard/BetterColor)
+3. ❗️ Opened issue [#160](https://github.com/avinash201199/To-Do-List/issues/160) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+4. ❗️ Opened issue [#31](https://github.com/SoftTech-Global/Perfect-Resume/issues/31) in [SoftTech-Global/Perfect-Resume](https://github.com/SoftTech-Global/Perfect-Resume)
+5. ❗️ Opened issue [#56](https://github.com/Design-and-Code/css-buttons/issues/56) in [Design-and-Code/css-buttons](https://github.com/Design-and-Code/css-buttons)
 <!--END_SECTION:activity-->
 
 ## Watch my contributions get eaten by a snake 🐍
