@@ -1,4 +1,4 @@
-# Hi there <img src="Hi.gif"  width="29px" height="29px">
+# Hey, there <img src="Hi.gif"  width="29px" height="29px">
 
 - 🔭 I'm learning about Data Structures and Algorithms(DSA)
 - 🥅 I'm exploring web3 and Blockchain Development
