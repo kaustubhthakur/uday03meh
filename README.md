@@ -24,7 +24,7 @@
   <a href="https://docs.soliditylang.org/" target="_blank"> <img src="https://docs.soliditylang.org/en/v0.8.16/_static/logo.svg" alt="solidity" width="40" height="40"/> </a>
 </p>
 
-## :zap: Recent Activity
+## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#87](https://github.com/Rick-mad-lab/Todolist/pull/87) in [Rick-mad-lab/Todolist](https://github.com/Rick-mad-lab/Todolist)
