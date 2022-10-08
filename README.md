@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#173](https://github.com/avinash201199/To-Do-List/issues/173) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
-2. 🗣 Commented on [#32](https://github.com/SoftTech-Global/Perfect-Resume/issues/32) in [SoftTech-Global/Perfect-Resume](https://github.com/SoftTech-Global/Perfect-Resume)
-3. 🗣 Commented on [#1](https://github.com/uday03meh/business-card/issues/1) in [uday03meh/business-card](https://github.com/uday03meh/business-card)
-4. 🎉 Merged PR [#1](https://github.com/uday03meh/business-card/pull/1) in [uday03meh/business-card](https://github.com/uday03meh/business-card)
-5. 🗣 Commented on [#1](https://github.com/uday03meh/uday03meh/issues/1) in [uday03meh/uday03meh](https://github.com/uday03meh/uday03meh)
+1. ❗️ Opened issue [#30](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest/issues/30) in [bluelearn-open-source/Lets-Blue-The-Hacktoberfest](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest)
+2. 🗣 Commented on [#173](https://github.com/avinash201199/To-Do-List/issues/173) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+3. 🗣 Commented on [#32](https://github.com/SoftTech-Global/Perfect-Resume/issues/32) in [SoftTech-Global/Perfect-Resume](https://github.com/SoftTech-Global/Perfect-Resume)
+4. 🗣 Commented on [#1](https://github.com/uday03meh/business-card/issues/1) in [uday03meh/business-card](https://github.com/uday03meh/business-card)
+5. 🎉 Merged PR [#1](https://github.com/uday03meh/business-card/pull/1) in [uday03meh/business-card](https://github.com/uday03meh/business-card)
 <!--END_SECTION:activity-->
 
 ## Watch my contributions get eaten by a snake 🐍
