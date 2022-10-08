@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest/issues/31) in [bluelearn-open-source/Lets-Blue-The-Hacktoberfest](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest)
-2. ❗️ Opened issue [#30](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest/issues/30) in [bluelearn-open-source/Lets-Blue-The-Hacktoberfest](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest)
-3. 🗣 Commented on [#173](https://github.com/avinash201199/To-Do-List/issues/173) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
-4. 🗣 Commented on [#32](https://github.com/SoftTech-Global/Perfect-Resume/issues/32) in [SoftTech-Global/Perfect-Resume](https://github.com/SoftTech-Global/Perfect-Resume)
-5. 🗣 Commented on [#1](https://github.com/uday03meh/business-card/issues/1) in [uday03meh/business-card](https://github.com/uday03meh/business-card)
+1. 🗣 Commented on [#8](https://github.com/JalJeevanPvtLtd/Netflix-India-clone/issues/8) in [JalJeevanPvtLtd/Netflix-India-clone](https://github.com/JalJeevanPvtLtd/Netflix-India-clone)
+2. ❗️ Opened issue [#31](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest/issues/31) in [bluelearn-open-source/Lets-Blue-The-Hacktoberfest](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest)
+3. ❗️ Opened issue [#30](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest/issues/30) in [bluelearn-open-source/Lets-Blue-The-Hacktoberfest](https://github.com/bluelearn-open-source/Lets-Blue-The-Hacktoberfest)
+4. 🗣 Commented on [#173](https://github.com/avinash201199/To-Do-List/issues/173) in [avinash201199/To-Do-List](https://github.com/avinash201199/To-Do-List)
+5. 🗣 Commented on [#32](https://github.com/SoftTech-Global/Perfect-Resume/issues/32) in [SoftTech-Global/Perfect-Resume](https://github.com/SoftTech-Global/Perfect-Resume)
 <!--END_SECTION:activity-->
 
 ## Watch my contributions get eaten by a snake 🐍
