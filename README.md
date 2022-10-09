@@ -1,4 +1,4 @@
-# Hey, there <img src="Hi.gif"  width="29px" height="29px">
+# Hey there <img src="Hi.gif"  width="29px" height="29px">
 
 - 🔭 I'm learning about Data Structures and Algorithms(DSA)
 - 🥅 I'm exploring web3 and Blockchain Development
@@ -59,5 +59,7 @@ https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
 
 Idea for icons:
 use both type of icons with square ones above label icons and give same width to both, use them as images and not as links
+
+Try out more github stats and github actions for page deployment
 -->
 
