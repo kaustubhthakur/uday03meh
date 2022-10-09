@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#47](https://github.com/hackbeats/complete-web3-bootcamp/issues/47) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
-2. 🗣 Commented on [#31](https://github.com/hackbeats/complete-web3-bootcamp/issues/31) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
+1. 🗣 Commented on [#31](https://github.com/hackbeats/complete-web3-bootcamp/issues/31) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
+2. 💪 Opened PR [#48](https://github.com/hackbeats/complete-web3-bootcamp/pull/48) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
 3. 🗣 Commented on [#31](https://github.com/hackbeats/complete-web3-bootcamp/issues/31) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
-4. 💪 Opened PR [#31](https://github.com/hackbeats/complete-web3-bootcamp/pull/31) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
-5. ❗️ Opened issue [#30](https://github.com/hackbeats/complete-web3-bootcamp/issues/30) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
+4. 🗣 Commented on [#31](https://github.com/hackbeats/complete-web3-bootcamp/issues/31) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
+5. ❗️ Opened issue [#47](https://github.com/hackbeats/complete-web3-bootcamp/issues/47) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
 <!--END_SECTION:activity-->
 
 ## Watch my contributions get eaten by a snake 🐍
