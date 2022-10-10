@@ -34,6 +34,8 @@
 5. 🗣 Commented on [#31](https://github.com/hackbeats/complete-web3-bootcamp/issues/31) in [hackbeats/complete-web3-bootcamp](https://github.com/hackbeats/complete-web3-bootcamp)
 <!--END_SECTION:activity-->
 
+[![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
+
 ## Watch my contributions get eaten by a snake 🐍
 
 ![Snake animation](https://github.com/uday03meh/uday03meh/blob/output/github-contribution-grid-snake.svg)
