@@ -50,6 +50,10 @@
 <!--
 
 README IMPROVEMENT 
+my domains:
+https://udaymehtani.github.io/
+https://uday-mehtani.github.io/
+https://uday03meh.github.io/
 
 https://github.com/rzashakeri/beautify-github-profile
 
