@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/uday03meh/basketball-score-counter/issues/6) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-2. 🎉 Merged PR [#9](https://github.com/uday03meh/basketball-score-counter/pull/9) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-3. ❗️ Reopened issue [#6](https://github.com/uday03meh/basketball-score-counter/issues/6) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-4. 🎉 Merged PR [#8](https://github.com/uday03meh/basketball-score-counter/pull/8) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-5. 💪 Opened PR [#8](https://github.com/uday03meh/basketball-score-counter/pull/8) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+1. 🗣 Commented on [#10](https://github.com/uday03meh/basketball-score-counter/issues/10) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+2. ❗️ Closed issue [#6](https://github.com/uday03meh/basketball-score-counter/issues/6) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+3. 🎉 Merged PR [#9](https://github.com/uday03meh/basketball-score-counter/pull/9) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+4. ❗️ Reopened issue [#6](https://github.com/uday03meh/basketball-score-counter/issues/6) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+5. 🎉 Merged PR [#8](https://github.com/uday03meh/basketball-score-counter/pull/8) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
