@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/uday03meh/RockPaperScissors/issues/20) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-2. 🗣 Commented on [#20](https://github.com/uday03meh/RockPaperScissors/issues/20) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-3. ❗️ Opened issue [#20](https://github.com/uday03meh/RockPaperScissors/issues/20) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-4. ❌ Closed PR [#13](https://github.com/uday03meh/basketball-score-counter/pull/13) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-5. 🗣 Commented on [#19](https://github.com/uday03meh/RockPaperScissors/issues/19) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+1. 🗣 Commented on [#6](https://github.com/uday03meh/RockPaperScissors/issues/6) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+2. 🗣 Commented on [#21](https://github.com/uday03meh/RockPaperScissors/issues/21) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+3. 🎉 Merged PR [#21](https://github.com/uday03meh/RockPaperScissors/pull/21) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+4. 🗣 Commented on [#20](https://github.com/uday03meh/RockPaperScissors/issues/20) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+5. 🗣 Commented on [#20](https://github.com/uday03meh/RockPaperScissors/issues/20) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
