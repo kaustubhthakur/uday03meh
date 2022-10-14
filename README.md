@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/uday03meh/basketball-score-counter/issues/12) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-2. 🗣 Commented on [#13](https://github.com/uday03meh/basketball-score-counter/issues/13) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-3. 🗣 Commented on [#16](https://github.com/uday03meh/RockPaperScissors/issues/16) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-4. 🗣 Commented on [#12](https://github.com/uday03meh/basketball-score-counter/issues/12) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-5. 🎉 Merged PR [#14](https://github.com/uday03meh/basketball-score-counter/pull/14) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+1. 🗣 Commented on [#17](https://github.com/uday03meh/RockPaperScissors/issues/17) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+2. 🗣 Commented on [#12](https://github.com/uday03meh/basketball-score-counter/issues/12) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+3. 🗣 Commented on [#13](https://github.com/uday03meh/basketball-score-counter/issues/13) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+4. 🗣 Commented on [#16](https://github.com/uday03meh/RockPaperScissors/issues/16) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+5. 🗣 Commented on [#12](https://github.com/uday03meh/basketball-score-counter/issues/12) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
