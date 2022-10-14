@@ -44,7 +44,7 @@
 <p align="left">
 <a href="https://twitter.com/uday03meh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uday's twt" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/udaymehtani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday's linkedin" height="40" width="40" /></a>
-<a href="https://github.com/uday03meh" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="uday's github" height="40" width="40" /></a>
+<a href="https://github.com/uday03meh" target="blank"><img align="center" src="https://user-images.githubusercontent.com/59679281/195826962-6fbe361f-0e78-4448-b74d-9d531bfd077a.png" alt="uday's github" height="40" width="40" /></a>
 </p>
 
 <!--
