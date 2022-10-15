@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/uday03meh/RockPaperScissors/issues/24) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-2. 🎉 Merged PR [#24](https://github.com/uday03meh/RockPaperScissors/pull/24) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-3. ❗️ Closed issue [#16](https://github.com/uday03meh/RockPaperScissors/issues/16) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-4. 🗣 Commented on [#16](https://github.com/uday03meh/RockPaperScissors/issues/16) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-5. 🎉 Merged PR [#23](https://github.com/uday03meh/RockPaperScissors/pull/23) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+1. ❗️ Closed issue [#19](https://github.com/uday03meh/RockPaperScissors/issues/19) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+2. 🎉 Merged PR [#25](https://github.com/uday03meh/RockPaperScissors/pull/25) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+3. 🗣 Commented on [#24](https://github.com/uday03meh/RockPaperScissors/issues/24) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+4. 🎉 Merged PR [#24](https://github.com/uday03meh/RockPaperScissors/pull/24) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+5. ❗️ Closed issue [#16](https://github.com/uday03meh/RockPaperScissors/issues/16) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
