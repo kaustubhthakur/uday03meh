@@ -27,11 +27,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#188](https://github.com/atsign-foundation/docs.atsign.com/issues/188) in [atsign-foundation/docs.atsign.com](https://github.com/atsign-foundation/docs.atsign.com)
-2. ❗️ Closed issue [#6](https://github.com/uday03meh/RockPaperScissors/issues/6) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-3. 🗣 Commented on [#6](https://github.com/uday03meh/RockPaperScissors/issues/6) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-4. 🗣 Commented on [#22](https://github.com/uday03meh/RockPaperScissors/issues/22) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-5. 🎉 Merged PR [#22](https://github.com/uday03meh/RockPaperScissors/pull/22) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+1. 🗣 Commented on [#24](https://github.com/uday03meh/RockPaperScissors/issues/24) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+2. 🎉 Merged PR [#24](https://github.com/uday03meh/RockPaperScissors/pull/24) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+3. ❗️ Closed issue [#16](https://github.com/uday03meh/RockPaperScissors/issues/16) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+4. 🗣 Commented on [#16](https://github.com/uday03meh/RockPaperScissors/issues/16) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+5. 🎉 Merged PR [#23](https://github.com/uday03meh/RockPaperScissors/pull/23) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
