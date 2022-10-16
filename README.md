@@ -28,10 +28,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#37](https://github.com/uday03meh/RockPaperScissors/issues/37) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-2. 🗣 Commented on [#1](https://github.com/uday03meh/password-generator/issues/1) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-3. 🎉 Merged PR [#1](https://github.com/uday03meh/password-generator/pull/1) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-4. 🗣 Commented on [#37](https://github.com/uday03meh/RockPaperScissors/issues/37) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-5. ❗️ Closed issue [#36](https://github.com/uday03meh/RockPaperScissors/issues/36) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+2. 🎉 Merged PR [#38](https://github.com/uday03meh/RockPaperScissors/pull/38) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+3. 🗣 Commented on [#37](https://github.com/uday03meh/RockPaperScissors/issues/37) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+4. 🗣 Commented on [#1](https://github.com/uday03meh/password-generator/issues/1) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+5. 🎉 Merged PR [#1](https://github.com/uday03meh/password-generator/pull/1) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
