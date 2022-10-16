@@ -44,7 +44,7 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-[Snake animation](github-user-contribution.svg)
+![Snake animation](https://github.com/uday03meh/uday03meh/blob/output/github-contribution-grid-snake.svg)
 
 ## Connect with me:
 <p align="left">
