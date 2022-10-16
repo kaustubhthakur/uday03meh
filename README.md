@@ -1,5 +1,6 @@
 # Hey there <img src="Hi.gif"  width="29px" height="29px">
 
+
 - 🔭 I'm learning about Data Structures and Algorithms(DSA)
 - 🥅 I'm exploring web3 and Blockchain Development
 - 👯 I’m looking to participating in hackathons
@@ -7,10 +8,15 @@
 - ✨ Checkout my starred repos for amazing resources
 - 📫 How to reach me: [udaymehtani@gmail.com](mailto:udaymehtani@gmail.com)
 
+<img src="mona-loading-dark.gif"  width="40px" height="40px">
+
 ![profile views](https://komarev.com/ghpvc/?username=uday03meh&style=flat&color=brightgreen&label=Profile+Views)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=uday03meh&count_private=true&theme=radical&show_icons=true&?hide=)](https://github.com/anuraghazra/github-readme-stats)
    
+
+   
+
 ## Languages and Tools:
 <p align="left"> 
    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -38,7 +44,7 @@
 
 ## Watch my contributions get eaten by a snake 🐍
 
-![Snake animation](https://github.com/uday03meh/uday03meh/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](github-user-contribution.svg)
 
 ## Connect with me:
 <p align="left">
