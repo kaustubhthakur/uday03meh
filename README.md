@@ -33,11 +33,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/uday03meh/password-generator/issues/6) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+1. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
 2. 🗣 Commented on [#6](https://github.com/uday03meh/password-generator/issues/6) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-3. ❗️ Closed issue [#5](https://github.com/uday03meh/password-generator/issues/5) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-4. ❗️ Opened issue [#6](https://github.com/uday03meh/password-generator/issues/6) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-5. ❗️ Opened issue [#5](https://github.com/uday03meh/password-generator/issues/5) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+3. 🗣 Commented on [#6](https://github.com/uday03meh/password-generator/issues/6) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+4. ❗️ Closed issue [#5](https://github.com/uday03meh/password-generator/issues/5) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+5. ❗️ Opened issue [#6](https://github.com/uday03meh/password-generator/issues/6) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
