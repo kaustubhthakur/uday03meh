@@ -34,10 +34,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-2. ❗️ Opened issue [#749](https://github.com/Kushal997-das/Project-Guidance/issues/749) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-3. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+2. ❌ Closed PR [#7](https://github.com/uday03meh/password-generator/pull/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+3. 🗣 Commented on [#15](https://github.com/uday03meh/basketball-score-counter/issues/15) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
 4. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-5. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+5. ❗️ Opened issue [#749](https://github.com/Kushal997-das/Project-Guidance/issues/749) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
