@@ -33,8 +33,8 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#749](https://github.com/Kushal997-das/Project-Guidance/issues/749) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
-2. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+1. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+2. ❗️ Opened issue [#749](https://github.com/Kushal997-das/Project-Guidance/issues/749) in [Kushal997-das/Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
 3. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
 4. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
 5. 🗣 Commented on [#7](https://github.com/uday03meh/password-generator/issues/7) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
