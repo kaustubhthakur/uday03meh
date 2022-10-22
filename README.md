@@ -33,11 +33,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/uday03meh/password-generator/issues/4) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-2. 🗣 Commented on [#9](https://github.com/uday03meh/password-generator/issues/9) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-3. ❗️ Closed issue [#15](https://github.com/uday03meh/basketball-score-counter/issues/15) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-4. 🗣 Commented on [#16](https://github.com/uday03meh/basketball-score-counter/issues/16) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
-5. 🎉 Merged PR [#16](https://github.com/uday03meh/basketball-score-counter/pull/16) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+1. 🗣 Commented on [#10](https://github.com/uday03meh/password-generator/issues/10) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+2. 🗣 Commented on [#4](https://github.com/uday03meh/password-generator/issues/4) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+3. 🗣 Commented on [#9](https://github.com/uday03meh/password-generator/issues/9) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+4. ❗️ Closed issue [#15](https://github.com/uday03meh/basketball-score-counter/issues/15) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
+5. 🗣 Commented on [#16](https://github.com/uday03meh/basketball-score-counter/issues/16) in [uday03meh/basketball-score-counter](https://github.com/uday03meh/basketball-score-counter)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
