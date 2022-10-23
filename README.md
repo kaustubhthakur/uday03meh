@@ -33,11 +33,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/uday03meh/RockPaperScissors/issues/45) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-2. 🗣 Commented on [#12](https://github.com/uday03meh/password-generator/issues/12) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-3. ❗️ Opened issue [#11](https://github.com/uday03meh/password-generator/issues/11) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-4. ❗️ Opened issue [#45](https://github.com/uday03meh/RockPaperScissors/issues/45) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-5. ❗️ Closed issue [#9](https://github.com/uday03meh/password-generator/issues/9) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+1. 🗣 Commented on [#12](https://github.com/uday03meh/password-generator/issues/12) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+2. 🗣 Commented on [#45](https://github.com/uday03meh/RockPaperScissors/issues/45) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+3. 🗣 Commented on [#12](https://github.com/uday03meh/password-generator/issues/12) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+4. ❗️ Opened issue [#11](https://github.com/uday03meh/password-generator/issues/11) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+5. ❗️ Opened issue [#45](https://github.com/uday03meh/RockPaperScissors/issues/45) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
