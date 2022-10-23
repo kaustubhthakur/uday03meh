@@ -12,7 +12,7 @@
 
 ![profile views](https://komarev.com/ghpvc/?username=uday03meh&style=flat&color=brightgreen&label=Profile+Views)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=uday03meh&count_private=true&theme=radical&show_icons=true&?hide=)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=uday03meh&count_private=true&theme=dark&show_icons=true&?hide=)](https://github.com/anuraghazra/github-readme-stats)
    
 
    
