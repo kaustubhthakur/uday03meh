@@ -3,7 +3,7 @@
 
 - 🔭 I'm learning about Data Structures and Algorithms(DSA)
 - 🥅 I'm exploring web3 and Blockchain Development
-- 👯 I’m looking to participating in hackathons
+- 👯 I’m looking to participate in hackathons
 - 💞️ Contributing to open source is something I'm loving these days
 - ✨ Checkout my starred repos for amazing resources
 - 📫 How to reach me: [udaymehtani@gmail.com](mailto:udaymehtani@gmail.com)
