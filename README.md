@@ -33,10 +33,10 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#281](https://github.com/protocol/nft-website/issues/281) in [protocol/nft-website](https://github.com/protocol/nft-website)
-2. 🗣 Commented on [#21](https://github.com/uday03meh/password-generator/issues/21) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-3. 🎉 Merged PR [#20](https://github.com/uday03meh/password-generator/pull/20) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
-4. 🗣 Commented on [#20](https://github.com/uday03meh/password-generator/issues/20) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+1. ❗️ Opened issue [#572](https://github.com/MetaMask/metamask-docs/issues/572) in [MetaMask/metamask-docs](https://github.com/MetaMask/metamask-docs)
+2. ❗️ Opened issue [#281](https://github.com/protocol/nft-website/issues/281) in [protocol/nft-website](https://github.com/protocol/nft-website)
+3. 🗣 Commented on [#21](https://github.com/uday03meh/password-generator/issues/21) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+4. 🎉 Merged PR [#20](https://github.com/uday03meh/password-generator/pull/20) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
 5. 🗣 Commented on [#20](https://github.com/uday03meh/password-generator/issues/20) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
 <!--END_SECTION:activity-->
 
