@@ -33,11 +33,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13504](https://github.com/ethereum/solidity/issues/13504) in [ethereum/solidity](https://github.com/ethereum/solidity)
-2. 🗣 Commented on [#7201](https://github.com/ethereum/ethereum-org-website/issues/7201) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
-3. ❗️ Opened issue [#572](https://github.com/MetaMask/metamask-docs/issues/572) in [MetaMask/metamask-docs](https://github.com/MetaMask/metamask-docs)
-4. ❗️ Opened issue [#281](https://github.com/protocol/nft-website/issues/281) in [protocol/nft-website](https://github.com/protocol/nft-website)
-5. 🗣 Commented on [#21](https://github.com/uday03meh/password-generator/issues/21) in [uday03meh/password-generator](https://github.com/uday03meh/password-generator)
+1. 🗣 Commented on [#53](https://github.com/uday03meh/RockPaperScissors/issues/53) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+2. 🗣 Commented on [#13504](https://github.com/ethereum/solidity/issues/13504) in [ethereum/solidity](https://github.com/ethereum/solidity)
+3. 🗣 Commented on [#7201](https://github.com/ethereum/ethereum-org-website/issues/7201) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
+4. ❗️ Opened issue [#572](https://github.com/MetaMask/metamask-docs/issues/572) in [MetaMask/metamask-docs](https://github.com/MetaMask/metamask-docs)
+5. ❗️ Opened issue [#281](https://github.com/protocol/nft-website/issues/281) in [protocol/nft-website](https://github.com/protocol/nft-website)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
