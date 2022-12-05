@@ -38,11 +38,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3399](https://github.com/NomicFoundation/hardhat/pull/3399) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
-2. 🗣 Commented on [#53](https://github.com/uday03meh/RockPaperScissors/issues/53) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-3. 🗣 Commented on [#13504](https://github.com/ethereum/solidity/issues/13504) in [ethereum/solidity](https://github.com/ethereum/solidity)
-4. 🗣 Commented on [#7201](https://github.com/ethereum/ethereum-org-website/issues/7201) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
-5. ❗️ Opened issue [#572](https://github.com/MetaMask/metamask-docs/issues/572) in [MetaMask/metamask-docs](https://github.com/MetaMask/metamask-docs)
+1. ❗️ Opened issue [#3400](https://github.com/NomicFoundation/hardhat/issues/3400) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
+2. 💪 Opened PR [#3399](https://github.com/NomicFoundation/hardhat/pull/3399) in [NomicFoundation/hardhat](https://github.com/NomicFoundation/hardhat)
+3. 🗣 Commented on [#53](https://github.com/uday03meh/RockPaperScissors/issues/53) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+4. 🗣 Commented on [#13504](https://github.com/ethereum/solidity/issues/13504) in [ethereum/solidity](https://github.com/ethereum/solidity)
+5. 🗣 Commented on [#7201](https://github.com/ethereum/ethereum-org-website/issues/7201) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
