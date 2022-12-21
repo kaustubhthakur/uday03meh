@@ -38,11 +38,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1216](https://github.com/hyperledger/besu-docs/issues/1216) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
-2. 🗣 Commented on [#869](https://github.com/ethereum/sourcify/issues/869) in [ethereum/sourcify](https://github.com/ethereum/sourcify)
+1. ❌ Closed PR [#1](https://github.com/dappuniversity/eth_daddy/pull/1) in [dappuniversity/eth_daddy](https://github.com/dappuniversity/eth_daddy)
+2. 💪 Opened PR [#1](https://github.com/dappuniversity/eth_daddy/pull/1) in [dappuniversity/eth_daddy](https://github.com/dappuniversity/eth_daddy)
 3. 🗣 Commented on [#1216](https://github.com/hyperledger/besu-docs/issues/1216) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
-4. 🗣 Commented on [#230](https://github.com/hyperledger/firefly-cli/issues/230) in [hyperledger/firefly-cli](https://github.com/hyperledger/firefly-cli)
-5. 🗣 Commented on [#8923](https://github.com/ethereum/ethereum-org-website/issues/8923) in [ethereum/ethereum-org-website](https://github.com/ethereum/ethereum-org-website)
+4. 🗣 Commented on [#869](https://github.com/ethereum/sourcify/issues/869) in [ethereum/sourcify](https://github.com/ethereum/sourcify)
+5. 🗣 Commented on [#1216](https://github.com/hyperledger/besu-docs/issues/1216) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
