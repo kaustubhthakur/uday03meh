@@ -38,11 +38,11 @@
 ## ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1230](https://github.com/hyperledger/besu-docs/pull/1230) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
-2. ❗️ Closed issue [#45](https://github.com/uday03meh/RockPaperScissors/issues/45) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
-3. 🗣 Commented on [#1216](https://github.com/hyperledger/besu-docs/issues/1216) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
-4. ❌ Closed PR [#1](https://github.com/dappuniversity/eth_daddy/pull/1) in [dappuniversity/eth_daddy](https://github.com/dappuniversity/eth_daddy)
-5. 💪 Opened PR [#1](https://github.com/dappuniversity/eth_daddy/pull/1) in [dappuniversity/eth_daddy](https://github.com/dappuniversity/eth_daddy)
+1. 🗣 Commented on [#1230](https://github.com/hyperledger/besu-docs/issues/1230) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
+2. 💪 Opened PR [#1230](https://github.com/hyperledger/besu-docs/pull/1230) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
+3. ❗️ Closed issue [#45](https://github.com/uday03meh/RockPaperScissors/issues/45) in [uday03meh/RockPaperScissors](https://github.com/uday03meh/RockPaperScissors)
+4. 🗣 Commented on [#1216](https://github.com/hyperledger/besu-docs/issues/1216) in [hyperledger/besu-docs](https://github.com/hyperledger/besu-docs)
+5. ❌ Closed PR [#1](https://github.com/dappuniversity/eth_daddy/pull/1) in [dappuniversity/eth_daddy](https://github.com/dappuniversity/eth_daddy)
 <!--END_SECTION:activity-->
 
 [![@uday03meh's Holopin board](https://holopin.io/api/user/board?user=uday03meh)](https://holopin.io/@uday03meh)
